@@ -1,0 +1,17 @@
+1. Differentiate the following CSS selectors. (20 points)
+a. Combining selectors
+b. Class and ID selectors
+c. Pesudo-classes
+
+Answer:
+Combining selectors, are used to define relationships among selectors, and ID selectors selects element based on the id attribute. It starts with Hash symbol "#". While for the Class selectors, it selects elements based on the class attribute, and it is usually denoted by periods ".". Lastly, pseudo-classes are also types of selectors that selects elements in which are in a special state. It can be possible due to it being the first one of it's class, or due to the element being given emphasis and focus.
+
+
+2. Differentiate the following hyperlink styling attributes. (20 points)
+a. a:hover
+b.  a:active
+c. a:visited
+d. a:link
+
+Answer: 
+a:hover, a:link, a:visited, and a:active are all considered attributes for hyperlink styling. However, there are different uses for each and attributes. "a:hover" is used for elements in which case that the mouse hover's or moves over the elements, it is then highlighted by the colour of the user's choice. "a:visited" on the other hand is for the elements in which case that a link is already visited by the user, it usually differ in colour when done, in order to make the link standout from the others. The next is "a:active" this hyperlink styling attribute's use is only when the link is clicked or being clicked by the user, similar to the "a:visited" and "a:hover" it may change in colour or size, emphasizing it and making the element look unique in order to make it distinct from the others. Finally, "a:link", this pseudo-selector is only used for unvisited links.
